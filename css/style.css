@@ -1,0 +1,38 @@
+body {
+  background: SlateBlue;
+  font-family: Monaco;
+  background-size: 100vh;
+  height:100vh;
+}
+
+.menu{
+  background-color: #cdeaf6;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: #0092ce;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+  color:whitesmoke;
+  text-align: center;
+}
+
+.site-subtitle {
+  font-style: italic;
+}
