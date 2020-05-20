@@ -22,6 +22,7 @@
 /* Style the social media icons with color, if you want */
 .icon-bar a:hover {
   background-color: #02111b;
+  box-shadow: 0 0 10px #3f4045, 0 0 40px #3f4045, 0 0 80px #3f4045;
 }
 
 .linkedin {
@@ -63,3 +64,4 @@
 		bottom:30px;
 	}
 }
+
