@@ -88,6 +88,8 @@ a:hover {
   text-decoration: underline;
 }
 
+
+
 .site-subtitle,
 .site-title {
   color: #fcfcfc;
@@ -100,11 +102,12 @@ a:hover {
   font-family: "Carter One";
 }
 
+
 .site-title:hover {
   text-transform: uppercase;
-
-
 }
+
+
 
 .site-subtitle:after {
   content: '|';
